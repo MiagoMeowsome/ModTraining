@@ -1,0 +1,21 @@
+[
+{
+  "modid": "ModTraining",
+  "name": "ModTraining",
+  "description": "Miago's first try",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "miago"
+  ],
+  "credits": "YAY TV WORLD !",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
